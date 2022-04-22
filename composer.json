@@ -2,7 +2,7 @@
   "name": "flancer32/mage2_ext_base",
   "description": "Base functionality for extensions.",
   "type": "magento2-module",
-  "homepage": "https://github.com/flancer32/mage2_ext_base",
+  "homepage": "https://github.com/benwhipp/mage2_ext_base",
   "license": "GPL-3.0-only",
   "authors": [
     {
